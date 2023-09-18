@@ -32,6 +32,7 @@ def fizzbuzz(num):
         return num
 
 def calculator(operation, num1, num2):
+    # got me thinking a lil bit :o
     calculate = {
         "+": num1 + num2,
         "-": num1 - num2,
